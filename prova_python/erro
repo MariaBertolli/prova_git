@@ -4,5 +4,5 @@
 
 
     print("O valor do seu aumento é de:" , salario * 15 / 100)]
-else
+else:
     print("O valor de aumento é de:" , salario * 10 / 100)
